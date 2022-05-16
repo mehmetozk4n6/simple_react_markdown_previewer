@@ -1,6 +1,6 @@
 ### netlify: https://62727026fbf42a14a1317220--glowing-klepon-b5db34.netlify.app/
 
-### dependencies: bootstrap, react-bootstrap, react-markdown
+### dependencies: bootstrap, react-bootstrap, react-markdown, @reduxjs/toolkit, react-redux
 
 # Build a Markdown Previewer
 
@@ -27,3 +27,12 @@ Optional Bonus (you do not need to make this test pass): My markdown previewer i
 You can build your project by using this CodePen template and clicking Save to create your own pen. Or you can use this CDN link to run the tests in any environment you like: https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js
 
 Once you're done, submit the URL to your working project with all its tests passing.
+
+# Patika
+
+### Gereksinimler:
+
+Örnek çalışmaya şuradan ulaşabilirsiniz.https://codepen.io/GuRuGu/pen/weVpQZ?editors=1010
+
+- Ekranın solundan girilecek olan markdown formatındaki veri, ekranın sağ tarafında ön izlenebilmeli.
+- Ekranın sağ üst köşesindeki soru işareti butonuna basıldığında örnek bir markdown ve ön izlemesi görüntülenmeli.
