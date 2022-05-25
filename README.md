@@ -1,4 +1,4 @@
-### netlify: https://62727026fbf42a14a1317220--glowing-klepon-b5db34.netlify.app/
+### netlify: https://master--glowing-klepon-b5db34.netlify.app/
 
 ### dependencies: bootstrap, react-bootstrap, react-markdown, @reduxjs/toolkit, react-redux
 
